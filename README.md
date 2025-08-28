@@ -1,7 +1,7 @@
 ## 👋 Olá! Eu sou o Guilherme Souza Alves
 
 - 🎓 Estudante de Desenvolvimento de Software Multiplataforma – FATEC Itaquera  
-- 🌐 Interesses: desenvolvimento web (frontend e backend), UX/UI, APIs
+- 🌐 Interesses: desenvolvimento web (frontend e backend), UX/UI, APIs, Desenvolvimento com Python.
 
 ### 🧠 Linguagens mais usadas
 
