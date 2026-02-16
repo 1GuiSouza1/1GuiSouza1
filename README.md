@@ -8,24 +8,29 @@
 Construindo meu futuro em tecnologia...
 - 🎓 Estudante de Desenvolvimento de Software Multiplataforma – FATEC Itaquera  
 - 💼 Desenvolvedor web e aplicativos desktop
-  
+---
 
-<div align=center>
+<div align="center">
 
-### 🧠 Banco de dados 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
-### 🖥️ Linguagens
-[![My Skills](https://skillicons.dev/icons?i=php,js,css,jquery,python)](https://skillicons.dev)
+### 🧑‍💻Linguagens
+[![My Skills](https://skillicons.dev/icons?i=php,js,css,python,jquery,typescript)](https://skillicons.dev)
+
 ### 🔧Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=postman,git,docker,figma)](https://skillicons.dev)
+<img width=50 heigth=50 src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png"/>
 
-### 🧑‍💻 Interfaces de Desenvolvimento
+### 🖥️Interfaces de Desenvolvimento
 [![My Skills](https://skillicons.dev/icons?i=vscode,phpstorm)](https://skillicons.dev)
-### 📫 Contato
 
+### 🔎Banco de dados 
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+<img width=50 heigth=50 src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mssql.png"/>
 
-https://www.linkedin.com/in/1GuiSouza1/
-https://mail.google.com/mail/?view=cm&to=guilhermesza123@gmail.com
+### 📫Contato
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/1GuiSouza1/)
+[![My Skills](https://skillicons.dev/icons?i=gmail)]([https://www.linkedin.com/in/1GuiSouza1/](https://mail.google.com/mail/?view=cm&to=guilhermesza123@gmail.com))
+
 
 </div>
 
