@@ -13,7 +13,7 @@ Construindo meu futuro em tecnologia...
 <div align="center">
 
 ### 🧑‍💻Linguagens
-[![My Skills](https://skillicons.dev/icons?i=php,js,css,python,jquery,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,css,jquery,php,java,python,typescript)](https://skillicons.dev)
 
 ### 🔧Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=postman,git,docker,figma)](https://skillicons.dev)
