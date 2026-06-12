@@ -29,7 +29,7 @@ Construindo meu futuro em tecnologia...
 ### 📫Contato
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/1GuiSouza1/)
-[![My Skills](https://skillicons.dev/icons?i=gmail)]([https://www.linkedin.com/in/1GuiSouza1/](https://mail.google.com/mail/?view=cm&to=guilhermesza123@gmail.com))
+[![My Skills](https://skillicons.dev/icons?i=gmail)]([https://www.linkedin.com/in/1GuiSouza1/](https://mail.google.com/mail/?view=cm&to=guilhermesza.dev@gmail.com))
 
 
 </div>
